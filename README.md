@@ -16,12 +16,15 @@ file: Chemical_property.py
 
 ## Conclusion
 
-This is course-based unsupervised learning project. The dataset posted on Dec 05, 2017 and The day of presentation is Dec 17. 
+This is course-based unsupervised learning project. The dataset posted on Dec 05, 2017 and The day of presentation is Dec 17.
+
 (1) I tried to use Euclidean Distance to compute the accuracy between latent feature and ECFP(worest!!)
+
 (2) I tried to use MLP to classify category
 
 ## Future work
 Try model: raw data --> CNN --> Encoder --> Latent features--> Decoder --> Transposed CNN 
            Latent features --> MLP 
+           
 This is a rough idea thought out during doing the project. Maybe there are more well-performed model will be found in the future. 
 
