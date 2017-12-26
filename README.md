@@ -12,7 +12,7 @@ file: Chemical_property.py
 
 --Use latent feature feed a 4-layer MLP model to classify 32 signal categories
 
---Acc: 67.04%
+--Acc: 80.77%
 
 ## Conclusion
 
